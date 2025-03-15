@@ -4,7 +4,7 @@
 2. visualstudio code (code editor)
    https://code.visualstudio.com/download
 
-3. Git Setup
+3.  how to setup Git  
    a. install git software : https://git-scm.com/downloads
    b. create github account : https://github.com/
    c. have git setup in local machine: 
